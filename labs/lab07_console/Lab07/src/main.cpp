@@ -12,7 +12,7 @@ int main()
 	{
 		x = x + step;
 		double y = sin(x) / x;
-		cout  << y << endl;
+		cout  << y << " ";
 	}
 
 	return 0;
