@@ -178,6 +178,38 @@ s[i];
 Объясните использование типов и переменных в программе.  
 Определите значения `n` и `m` без компиляции.
 
+```cpp
+#include "stdafx.h"
+#include <iostream>
+using namespace std;
+
+#define N 5
+
+typedef long int MyInt;
+
+double g(int, int);
+
+int a = 100;
+
+int _tmain (int argc, _TCHAR* argv[]){
+    float a;
+    int d = 123; t = 456; 
+    double n, m;
+    MyInt l = 0;
+    a = 3.14; 
+    for (int a = 0; a < N; a++) l += a;
+    n = l * N + a;
+    m = g(d, t);
+    cout << "n = " << n << ", m = " << m << endl;
+
+    return 0
+}_
+
+double g(int d, int t)
+{
+    return a / d + t;
+}
+```
 ---
 
 ### II.2. УПРАЖНЕНИЕ 2
