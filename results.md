@@ -10,7 +10,7 @@
 |  [Левичев](https://github.com/MynameMumba/programming_course_2)| | 3 |2  | 3 | 2 | 2 | . | 7| 11 | **6**| **2** | **15** | **5**| **8** |  |  |  |  |
 |  [Лютенко](https://github.com/neketlut-netizen/programming_course)|4 |  | 2 |  |  2| 2 | 8 |7  | 11 |**6**| **2** | **10** | **6** |  |  |  |  |  |
 |  [Медведев](https://github.com/dudosa-1/programming_course_2-Medvedev)|2 | 3 | 2 |  | 2 | 2 |8  |  | 11 | 6 | 2 |  | **6** | **8** |  |  |  |  |
-|  [Однорал](https://github.com/M1aRS/programming_course_2_932503_odnoral)| 4| 3 | 2 |  3| 2 | 2 | . | 7 | 11 | **6** | **2** |**25**  | **6** | **8** |  |  |  |  |
+|  [Однорал](https://github.com/M1aRS/programming_course_2_932503_odnoral)| 4| 3 | 2 |  3| 2 | 2 | . | 7 | 11 | **6** | **2** |**25**  | **6** | **8** | **8** |**8**| **20** |  |
 |  [Сабитова](https://github.com/EssanAp5113N/programming_course_2)|4| 3 |  2| 3 | 2 | 2 | 8 | 7 | 11| 6 | **2** | **20** |**6**| **8** |  |  **8**|  |  |
 |  [Томин](https://github.com/etomin52/edgar932503)| 2| 3 | 2 | 3 | 2 | 2 |  | 7 | 11 | 6 | 2 |  | **6** |  |  |  |  |  |
 |  [Устинов](https://github.com/WarFly-07/programming_course_2)| 4|  3| 2 |  |  | 2 | 8 | 7 |  |  | **2** |  ||  |  |  |  |  |
